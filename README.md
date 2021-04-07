@@ -1,5 +1,8 @@
-# LG-WebOS-Remote-Control
-Remote Control for LG TV WebOS
+# Bravia Remote
+Remote Control for Sony Bravia TV using Pre-Shared Key (PSK)
+
+You must have the following custom component setup in order to use this remote.
+https://github.com/custom-components/media_player.braviatv_psk
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 [![buymeacoffee_badge](https://img.shields.io/badge/Donate-buymeacoffe-ff813f?style=flat)](https://www.buymeacoffee.com/madmicio)
